@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5ACCC1</color>
+    <color name="colorSecondary">#228B22</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="GeneralWasteColor">#E74C3C</color>
+    <color name="RecyclingColor">#3CE758</color>
+    <color name="DogWasteColor">#E78B3C</color>
+    <color name="green">#228B22</color>
+
+    <color name="background_colour">#000057</color>
+</resources>

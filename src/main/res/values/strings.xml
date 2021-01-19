@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BinFind</string>
+    <string name="mapbox_access_token">...</string>
+    <string name="user_location_permission_explanation">Permissions Required</string>
+    <string name="new_location">New lat: %1$s New longitude: %2$s</string>
+    <string name="welcome_to_binfind">Welcome To BinFind</string>
+    <string name="get_started">Please insert a display name below to get started:</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="let_s_go">Let\'s Go!</string>
+    <string name="add_bin">Add Bin</string>
+    <string name="recycling_text">recycling_text</string>
+    <string name="general_text">general_text</string>
+    <string name="dog_text">dog_text</string>
+
+    <string name="profile">profile</string>
+    <string name="leaderboard">leaderboard</string>
+    <string name="information">information</string>
+    <string name="help">help</string>
+    <string name="about">about</string>
+    <string name="recycling">Recycling</string>
+    <string name="general">General</string>
+    <string name="dog_waste">Dog Waste</string>
+    =======
+    <string name="navigate">Navigate</string>
+    <string name="title_activity_about_page">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="distance">distance</string>
+    <string name="lat">lat</string>
+    <string name="types_of_bins">types_of_bins</string>
+    <string name="lng">lng</string>
+    <string name="todo">TODO</string>
+    <string name="directions">directions</string>
+    <string name="add_image">Add image</string>
+    <string name="remove_bins">Remove bins</string>
+    <string name="chooseimage">chooseimage</string>
+    <string name="upload">upload</string>
+    <string name="photo">photo</string>
+    >>>>>>> origin/master
+</resources>
