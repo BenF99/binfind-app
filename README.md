@@ -1,6 +1,6 @@
 # binfind-app
 
-A bin/trash can finding android application created for as part of a second year University Project that allows users to find nearby bins via an interactive map.
+A bin/trash can finding android application created for my second year University Project that allows users to find nearby bins via an interactive map.
 
 Features:
 
